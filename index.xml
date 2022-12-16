@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hallo! on Tobias Lind</title>
+    <link>https://tobiaslind.github.io/</link>
+    <description>Recent content in Hallo! on Tobias Lind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 27 Nov 2022 10:15:52 +0100</lastBuildDate><atom:link href="https://tobiaslind.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erster Post</title>
+      <link>https://tobiaslind.github.io/posts/erster-post/</link>
+      <pubDate>Sun, 27 Nov 2022 10:14:11 +0100</pubDate>
+      
+      <guid>https://tobiaslind.github.io/posts/erster-post/</guid>
+      <description>Mein erster Blog-Post. Mal sehen, ob ich hier regelmäßig etwas veröffentlichen werde&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://tobiaslind.github.io/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tobiaslind.github.io/datenschutz/</guid>
+      <description>Ich freue mich sehr über Ihr Interesse an meiner Seite. Datenschutz hat für mich einen besonders hohen Stellenwert. Eine Nutzung meiner Internetseiten ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services über meine Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, hole ich generell eine Einwilligung der betroffenen Person ein.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://tobiaslind.github.io/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tobiaslind.github.io/impressum/</guid>
+      <description>Dies ist eine private, nichtkommerzielle Webseite.
+Verantwortlich für die Inhalte und die Gestaltung dieser Website ist:
+Tobias Lind
+Beratungsrektor mBdB
+Frühlingstraße 32
+85221 Dachau
+0176 66866054
+tobiaslind@posteo.de
+Angaben gemäß § 5 TMG Ich widerspreche hiermit ausdrücklich der Speicherung meiner Person bzw. meiner Adressen betreffenden Daten nach § 28 Abs. 4, § 4 Abs. 1,2 Bundesdatenschutzgesetz (BDSG) und untersage die Nutzung meiner Person bzw. meiner Adressen betreffenden Daten zu Werbezwecken.
+Verantwortlich für den Inhalt nach § 55 Abs.</description>
+    </item>
+    
+    <item>
+      <title>Über mich</title>
+      <link>https://tobiaslind.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tobiaslind.github.io/about/</guid>
+      <description>Mein Name ist Tobias Lind und ich bin Lehrer an der Mittelschule Dachau Süd.
+Als Beratungsrektor mBdB unterstütze ich die Grund- und Mittelschulen der Schulamtsbezirke Dachau und Fürstenfeldbruck im Rahmen ihrer schulischen Medienarbeit. Zudem leite ich das Medienzentrum in Dachau.
+Moderne Technik macht vor unseren Schulen nicht Halt. Smartphones, Tablets, Social Media, Games — die digitalen Medien gehören zum Alltag unserer Schülerinnen und Schüler. Wir müssen deshalb digitale Werkzeuge in den Dienst der Pädagogik stellen und frühzeitig einen verantwortungsvollen Umgang mit der Technologie von heute und morgen fördern.</description>
+    </item>
+    
+    <item>
+      <title>Vorträge</title>
+      <link>https://tobiaslind.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tobiaslind.github.io/talks/</guid>
+      <description>Post Corona – Warum es keinen Weg mehr zurück geben darf! Die weltweite Pandemie hat schonungslos Defizite aufgedeckt – auch und besonders im Bildungsbereich. Die Kluft zwischen Vorreiter- und Nachzügler-Schulen war groß. Ebenso breit war die Schere zwischen Familien mit einer guten IT-Ausstattung und Haushalten, in denen sich mehrere Personen ein Smartphone teilen mussten. Nun ist es an der Zeit, rückblickend Fragen zu stellen und auch Antworten darauf zu finden: Wie haben Lernende und Lehrende den Distanzunterricht gemeistert?</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>https://tobiaslind.github.io/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tobiaslind.github.io/workshops/</guid>
+      <description>Hör mal zu! Podcasting im Unterricht Sprechen, Aufnehmen, Schneiden, Veröffentlichen und Hören – mit Podcasts erstellen Sie und Ihre Lernenden interessante Audiobeiträge in allen Fächern. Diese Schulung stellt unterschiedliche Aufnahmemöglichkeiten vor, geht auf die benötigte technische Ausstattung ein, beantwortet datenschutzrechtliche Fragestellungen und stellt Beispiele aus der Unterrichtspraxis vor.
+Präsentation
+Endgeräteunabhängige Tools für den Unterricht Dieser Workshop stellt browserbasierte Werkzeuge für den Unterricht vor, die auf verschiedenen Endgeräten lauffähig sind und zum Teil auch kollaboratives Arbeiten ermöglichen.</description>
+    </item>
+    
+  </channel>
+</rss>
