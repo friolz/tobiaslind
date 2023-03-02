@@ -5,7 +5,17 @@
     <link>https://www.tobiaslind.de/posts/</link>
     <description>Recent content in Posts on Tobias Lind</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 19 Dec 2022 11:49:25 +0100</lastBuildDate><atom:link href="https://www.tobiaslind.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2023 10:14:11 +0100</lastBuildDate><atom:link href="https://www.tobiaslind.de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8BitDo zero 2 als Presenter umfunktionieren</title>
+      <link>https://www.tobiaslind.de/posts/8bitdo/</link>
+      <pubDate>Thu, 02 Mar 2023 10:14:11 +0100</pubDate>
+      
+      <guid>https://www.tobiaslind.de/posts/8bitdo/</guid>
+      <description>Wer gerne mit einem Presenter arbeitet, um per Funk zwischen einzelnen Folien einer Präsentation zu wechseln, der nutzt wahrscheinlich einen Logitech R400 (weil günstig) oder teurere und bessere Varianten. So auch ich &amp;ndash; bis jetzt.
+Ich habe über viele Jahre den R400 verwendet, aber irgendwann hat mich das Wechseln der Batterien genervt und das Wechseln der Folien war manchmal unzuverlässig. Ein verbessertes Modell wollte ich mir aber aufgrund des relativ teuren Preises von ca.</description>
+    </item>
+    
     <item>
       <title>Neue USK-Kriterien bei Videospielen ab Januar 2023</title>
       <link>https://www.tobiaslind.de/posts/uskneu/</link>
@@ -24,16 +34,6 @@ Aus meiner Sicht ist dies zu begrüßen, da die Erziehungsberechtigten damit die
       
       <guid>https://www.tobiaslind.de/posts/erster-post/</guid>
       <description>Mein erster Blog-Post. Mal sehen, ob ich hier regelmäßig etwas veröffentlichen werde&amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://www.tobiaslind.de/posts/8bitdo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.tobiaslind.de/posts/8bitdo/</guid>
-      <description>Wer gerne mit einem Presenter arbeitet, um per Funk zwischen einzelnen Folien einer Präsentation zu wechseln, der nutzt wahrscheinlich einen Logitech R400 (weil günstig) oder teurere und bessere Varianten. So auch ich &amp;ndash; bis jetzt.
-Ich habe über viele Jahre den R400 verwendet, aber irgendwann hat mich das Wechseln der Batterien genervt und das Wechseln der Folien war manchmal unzuverlässig. Ein verbessertes Modell wollte ich mir aber aufgrund des relativ teuren Preises von ca.</description>
     </item>
     
   </channel>
